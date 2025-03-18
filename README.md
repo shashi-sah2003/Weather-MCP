@@ -10,7 +10,7 @@ A Python-based MCP sdk, weather information tool that provides weather alerts an
 uv pip install .
 ```
 3. After installation, download Claude Desktop app
-4. Create or edit configuration file at (C:\Users\ <username> \AppData\Roaming\Claude\claude_desktop_config.json) with below similar configuration
+4. Create or edit configuration file at (C:\Users\{username}\AppData\Roaming\Claude\claude_desktop_config.json) with below similar configuration
 
 ![Configuration Example](./image.png)
 
